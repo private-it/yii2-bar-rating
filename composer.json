@@ -1,5 +1,5 @@
 {
-    "name": "coksnuss/yii2-bar-rating",
+    "name": "private-it/yii2-bar-rating",
     "description": "Wrapper widget for the jQuery Bar Rating Plugin.",
     "keywords": ["yii2", "widget", "rating"],
     "type": "yii2-extension",
@@ -8,6 +8,10 @@
         {
             "name": "Markus Schanz",
             "email": "coksnuss@googlemail.com"
+        },
+        {
+            "name": "Igor Sapegin",
+            "email": "sapegin@private-it.ru"
         }
     ],
     "require": {
