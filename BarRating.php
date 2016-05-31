@@ -24,6 +24,7 @@ class BarRating extends InputWidget
     const STYLE_BOX            = 'box';
     const STYLE_BOX_ALT        = 'box-alt';
     const STYLE_STAR           = 'star';
+    const STYLE_BOOTSTRAP_STAR = 'bootstrap-star';
 
     /**
      * @var string The CSS style to apply to this widget. Use one of the constants defined in this class.
